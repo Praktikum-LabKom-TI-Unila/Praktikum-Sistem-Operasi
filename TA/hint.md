@@ -1,10 +1,10 @@
 # 🧩 TA 5 – Steganografi Pesan Rahasia (Modul Sistem Operasi)
 
 ## 📁 Struktur Direktori
-Secret/
-+ ├── image/ # berisi gambar sumber dan hasil reply.png
-+ ├── extract/ # hasil ekstraksi & decoding pesan
-+ └── reply/ # pesan balasan dan hasil encoding
+Secret/ <br/>
+├── image/ # berisi gambar sumber dan hasil reply.png<br/>
+├── extract/ # hasil ekstraksi & decoding pesan<br/>
+└── reply/ # pesan balasan dan hasil encoding<br/>
 
 ## 💡 Petunjuk Umum
 + Ekstrak pesan di antara marker
